@@ -55,6 +55,7 @@
                             <artifactId>lombok</artifactId>
                         </exclude>
                     </excludes>
+                    <finalName>github-action</finalName>
                 </configuration>
             </plugin>
         </plugins>
