@@ -1,12 +1,12 @@
 server:
   port: 8080
-spring:
-  application:
-    name: CI/CD-with-GitHub-Action
-  datasource:
-    url: jdbc:postgresql://localhost:5432/cicd_test
-    username: postgres
-    password: atumar4031
+#spring:
+#  application:
+#    name: CI/CD-with-GitHub-Action
+#  datasource:
+#    url: jdbc:postgresql://localhost:5432/cicd_test
+#    username: postgres
+#    password: atumar4031
 
 
 #spring:
